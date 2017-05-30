@@ -53,7 +53,8 @@ end
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
-gem 'bootstrap', git: 'https://github.com/twbs/bootstrap-rubygem'
+gem 'bootstrap-sass', '~> 3.3.6'
 gem 'jquery-rails'
 gem 'autoprefixer-rails'
 gem 'font-awesome-rails'
+gem 'devise'

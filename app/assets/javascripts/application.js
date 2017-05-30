@@ -14,7 +14,8 @@
 //= require rails-ujs
 //= require jquery3
 //= require jquery_ujs
-//= require popper
 
 // Change to bootstrap for faster compilation: https://github.com/twbs/bootstrap-rubygem
 //= require bootstrap-sprockets
+
+
